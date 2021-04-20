@@ -1,0 +1,39 @@
+#sig-canvas {
+    border: 3px solid #CCCCCC;
+    border-radius: 15px;
+    cursor: crosshair;
+  }
+
+#sig-image{
+    padding: 50px;
+    display: flex;
+    justify-content: end;
+}
+
+h1,p{
+    display: flex;
+    justify-content: center;
+}
+
+.border-secondary{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.canvas-position{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.submit{
+    margin-right: 10px;
+}
+
+.button-container{
+    padding: 20px;
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+}
